@@ -169,27 +169,12 @@ footer {
         height: auto;
         margin-left: 60px;
     }
-    .contenedor1{
-        flex-direction: column;
-        height: auto;
-    }
-    .contenedor2{
-        flex-direction: column;
-        height: auto;
-    }
-    .contenedor3{
-        flex-direction: column;
-        height: auto;
-    }
-    .contenedor4{
-        flex-direction: column;
-        height: auto;
-    }
-    .contenedor5{
-        flex-direction: column;
-        height: auto;
-    }
-    .contenedor6{
+   .contenedor1,
+    .contenedor2,
+    .contenedor3,
+    .contenedor4,
+    .contenedor5,
+    .contenedor6 {
         flex-direction: column;
         height: auto;
     }
